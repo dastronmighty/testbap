@@ -2,7 +2,7 @@
 dist/
 
 # Config file
-server/server.config.js
+config/server.config.js
 
 # Node stuff
 node_modules
