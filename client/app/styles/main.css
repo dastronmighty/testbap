@@ -1,0 +1,18 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.leads-col-title {
+    color: white;
+}
+
+.user-div {
+    margin-top: 10px;
+    padding: 5px;
+}
