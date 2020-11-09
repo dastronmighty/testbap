@@ -4,7 +4,7 @@ const rp = require('request-promise');
 
 const prefix = "/api/helper"
 const baseUrl = 'https://www.google.com/recaptcha/api/siteverify?'
-const secret = 'secret=6LdTxqwUAAAAAI23No2p2wEYQDNIGDZyxY2RCDei'
+const secret = 'secret=<YOUR SECRET>'
 
 module.exports = (app) => {
 
